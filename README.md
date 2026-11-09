@@ -23,4 +23,4 @@ request 2 (after the reload): app.js sees registry #2, b.js sees registry #2
 FAIL: request 1 finished on a mix of old and new module instances
 ```
 
-Issue: _link added once filed_
+Issue: https://github.com/vitejs/vite/issues/24046
